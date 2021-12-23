@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyApplication.3</string>
+    <string name="button_main">SEND</string>
+    <string name="editText_main"/>
+    <string name="button_second">REPLY</string>
+    <string name="editText_second">REPLY HERE</string>
+    <string name="text_header_reply">REPLY RECEIVED</string>
+    <string name="text_header"/>
+
+
 </resources>
